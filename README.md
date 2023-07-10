@@ -8,5 +8,5 @@ At this project we’ll compare effectiveness of different GNN models to predict
 ## About Dataset
 for classification I used HIV dataset and for regression I used ESOL dataset which their details are below<br>
 
-this will be updated soon
+Since size of HIV dataset is big and each model needs 20 minutes to become finished and I faced runtime crash several times this will take a time to upload
 
