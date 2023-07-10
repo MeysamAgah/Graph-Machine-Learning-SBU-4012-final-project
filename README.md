@@ -76,6 +76,6 @@ Now it’s time to check how much accuracy each model have and compare with orig
 According to table 4:
 best model for classification is model 00 <br>
 best model for regression is model 18 which has 5 layers and using Graph SAGE and dropout is 0.1. it appears that more layers result in better accuracy and dropout doesn’t necessarily improve model and graph sage is better than GCN<br>
-
+# Important
 Since size of HIV dataset is big and each model needs 20 minutes to become finished and I faced runtime crash several times this will take a time to upload
 
