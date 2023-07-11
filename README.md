@@ -1,4 +1,5 @@
 # Graph-Machine-Learning-SBU-4012-final-project
+[classification notebook](https://github.com/MeysamAgah/Graph-Machine-Learning-SBU-4012-final-project/blob/main/Final_Project_Classification.ipynb) and [regression notebook](https://github.com/MeysamAgah/Graph-Machine-Learning-SBU-4012-final-project/blob/main/Final_Project_Regression.ipynb)
 ## Introduction
 At this project our task was to implement a GNN model in order to accurately predict molecular properties.<br>
 For classification we use HIV dataset for classification and ESOL dataset for regression.<br>
@@ -69,7 +70,7 @@ Now it’s time to check how much accuracy each model have and compare with orig
 <br>
 <br>
 <br>
-
+![Table 4](https://raw.githubusercontent.com/MeysamAgah/Graph-Machine-Learning-SBU-4012-final-project/main/table%204.png)
 <br>
 <br>
 <br>
